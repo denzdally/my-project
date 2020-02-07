@@ -10,3 +10,4 @@ for company, grps in groupbycoy:
     for i in grps.index:
         print(grps.value[i][0], end = ' ')
         print(grps.value[i][1])
+# wefesfefes
